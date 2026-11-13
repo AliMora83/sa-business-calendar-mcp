@@ -3,13 +3,23 @@
   "name": "io.github.AliMora83/sa-business-calendar-mcp",
   "title": "SA Business Calendar",
   "description": "South African business days, public holidays and SARS EMP201/VAT201 deadlines.",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "websiteUrl": "https://apify.com/ali_mora/sa-calendar-apify",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/AliMora83/sa-business-calendar-mcp/main/sa-calendar-icon.webp",
+      "mimeType": "image/webp"
+    }
+  ],
   "repository": {
     "url": "https://github.com/AliMora83/sa-business-calendar-mcp",
     "source": "github"
   },
   "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://calendar.namka.cloud/mcp"
+    },
     {
       "type": "streamable-http",
       "url": "https://ali-mora--sa-calendar-apify.apify.actor/mcp",
