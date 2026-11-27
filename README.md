@@ -4,6 +4,8 @@ Hosted [Model Context Protocol](https://modelcontextprotocol.io) server that giv
 
 **Get it on Apify Store → [apify.com/ali_mora/sa-calendar-apify](https://apify.com/ali_mora/sa-calendar-apify)**
 
+[![SA Business Calendar MCP server](https://mcprush.com/badge/sa-business-calendar-mcp/card.svg)](https://mcprush.com/to/sa-business-calendar-mcp?ref=badge)
+
 ## Tools
 
 | Tool | What it does | Price |
